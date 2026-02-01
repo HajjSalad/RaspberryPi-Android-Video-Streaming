@@ -1,1 +1,3 @@
+# Ignore Build and System files
+pi-video-capture/main
 .DS_Store
