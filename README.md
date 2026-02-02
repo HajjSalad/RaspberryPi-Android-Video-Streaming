@@ -36,7 +36,7 @@ This system empowers users to capture, stream, and playback video content across
 2. 🌐 Stream Web-Hosted Videos
 - Watch internet-hosted videos directly using ExoPlayer
 - Current Implementation: Video URLs are hardcoded in the app and tied to each button
-- Future Enhancement: Host a JSON file on GitHub Pages containing video metadata: app fetches and parses the JSON to load videos dynam,mically, enabling easy updates without app modifications
+- Future Enhancement: Host a JSON file on GitHub Pages containing video metadata; app fetches and parses the JSON to load videos dynam,mically, enabling easy updates without app modifications
 3. 📂 Stream Locally-Stored Videos
 - Browse and play video files saved on Android device storage
 - Seamless playback with ExoPlayer integration
@@ -57,6 +57,6 @@ This system empowers users to capture, stream, and playback video content across
 
 ### Demo
 
-| ![Demo 1](./1.gif) | ![Demo 2](./2.gif) | ![Demo 3](./3.gif) |
+| ![Demo 1](demo/1.gif) | ![Demo 2](demo/2.gif) | ![Demo 3](demo/3.gif) |
 |:------------------:|:------------------:|:------------------:|
 
